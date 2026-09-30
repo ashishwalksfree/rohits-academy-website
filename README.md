@@ -1,26 +1,25 @@
 # Rohit's Academy Website
 
-## About
-Welcome to Rohit's Academy!
+Hi! 👋 Welcome to my project.
 
-Established in 2025, Rohit's Academy provides quality and affordable education for students from Std. 5 to Std. 10.
+I'm working on a website for Rohit's Academy, an educational institute established in 2025 that provides education for students from Standard 5 to Standard 10.
 
-## Project Features
-- Home
-- About
-- Courses
-- Faculty
-- Contact
+The idea behind this project is to create a simple, clean, and user-friendly website where students and parents can learn more about the academy.
 
-## Technologies
-- HTML5
-- CSS3
+### What I'm working on
+- A homepage for the academy
+- Information about the academy
+- Courses and faculty sections
+- Contact information
+- A design that works across different screen sizes
 
-## Project Goal
-Building a clean and user-friendly website for Rohit's Academy.
+### Built With
+- HTML
+- CSS
 
-## Developer
-Ashish K. Bhattacharya
+### About This Project
+I'm a first-year BCA student, and I'm building this website to practise my web development skills and learn by working on a real project.
 
----
-This project is part of my BCA learning journey.
+This project is still in progress, and I'll keep improving it as I learn more.
+
+Thanks for stopping by! 😊
